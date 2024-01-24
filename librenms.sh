@@ -125,5 +125,3 @@ configure_nginx
 configure_snmpd
 setup_cron_jobs
 enable_scheduler
-
-This paste expires in <1 hour. Public IP access. Share whatever you see with others in seconds with Context.Terms of ServiceReport this
